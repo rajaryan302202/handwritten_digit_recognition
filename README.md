@@ -1,2 +1,2 @@
 # NeuralNetworksAndDeepLearning-
-The code for the awesome online book by Michael Nielsen (@mnielsen) 
+The code sample for the awesome online book by [Michael Nielsen](https://github.com/mnielsen)
